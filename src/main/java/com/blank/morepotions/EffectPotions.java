@@ -25,15 +25,10 @@ public class EffectPotions {
             MobEffects.HEALTH_BOOST, 9600, 1), new PotionEffect(MobEffects.RESISTANCE, 9600,
             2)).setRegistryName("fighting");
 
-    // Joke Potions
-    public static final PotionType STRONG_LEVITATION = new PotionType("levitation_strong", new PotionEffect(
-            MobEffects.LEVITATION, 600, 100)).setRegistryName("levitation_strong");
-
     public static void registerPotionTypes() {
         final PotionType[] types = new PotionType[]{
                 HASTE0, HASTE1, HASTE2,
-                HEALTH_BOOST, FIGHTING,
-                STRONG_LEVITATION
+                HEALTH_BOOST, FIGHTING
         };
 
         for (PotionType pType : types) {
@@ -48,7 +43,5 @@ public class EffectPotions {
 
         PotionHelper.addMix(PotionTypes.REGENERATION, Items.COOKED_BEEF, HEALTH_BOOST);
         PotionHelper.addMix(PotionTypes.STRENGTH, Items.IRON_SWORD, FIGHTING);
-
-        PotionHelper.addMix(PotionTypes.STRONG_LEAPING, Items.SHULKER_SHELL, STRONG_LEVITATION);
     }
 }
