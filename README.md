@@ -11,7 +11,6 @@ though, it's really simple.
 - Haste III
 - Health Boost
 - Fighting (Health Boost & Resistance)
-- [*REDACTED*]
 
 ## Brewing Recipes
 ### Haste I/II/III
