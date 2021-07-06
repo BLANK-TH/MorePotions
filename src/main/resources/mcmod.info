@@ -1,0 +1,15 @@
+[
+{
+  "modid": "morepotions",
+  "name": "More Potions",
+  "description": "Adds various extra potions, similar to Growthcraft except it's (hopefully) not as buggy.",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["blank_dvth"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

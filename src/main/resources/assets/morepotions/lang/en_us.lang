@@ -1,0 +1,26 @@
+potion.effect.haste_mild=Potion of Haste
+splash_potion.effect.haste_mild=Splash Potion of Haste
+lingering_potion.effect.haste_mild=Lingering Potion of Haste
+tipped_arrow.effect.haste_mild=Arrow of Haste
+potion.effect.haste_normal=Potion of Haste II
+splash_potion.effect.haste_normal=Splash Potion of Haste II
+lingering_potion.effect.haste_normal=Lingering Potion of Haste II
+tipped_arrow.effect.haste_normal=Arrow of Haste II
+potion.effect.haste_strong=Potion of Haste III
+splash_potion.effect.haste_strong=Splash Potion of Haste III
+lingering_potion.effect.haste_strong=Lingering Potion of Haste III
+tipped_arrow.effect.haste_strong=Arrow of Haste III
+
+potion.effect.health_boost=Potion of Health Boost
+splash_potion.effect.health_boost=Splash Potion of Health Boost
+lingering_potion.effect.health_boost=Lingering Potion of Health Boost
+tipped_arrow.effect.health_boost=Arrow of Health Boost
+potion.effect.fighting=Potion of Fighting
+splash_potion.effect.fighting=Splash Potion of Fighting
+lingering_potion.effect.fighting=Lingering Potion of Fighting
+tipped_arrow.effect.fighting=Arrow of Fighting
+
+potion.effect.levitation_strong=TO THE MOON!!!
+splash_potion.effect.levitation_strong=SEND SOMEONE TO THE MOON!!!
+lingering_potion.effect.levitation_strong=TRAMPOLINE AREA
+tipped_arrow.effect.levitation_strong=Arrow of Punching (but Vertically)
